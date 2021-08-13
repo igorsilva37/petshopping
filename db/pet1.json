@@ -1,0 +1,18 @@
+{
+  "id": 170798,
+  "category": {
+    "id": 1,
+    "name": "asdf123"
+  },
+  "name": "BobMarley",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 20210812,
+      "name": "data"
+    }
+  ],
+  "status": "available"
+}
